@@ -1,0 +1,20 @@
+# 로컬 Visual Studio 설정
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.userosscache
+
+# 빌드 출력 및 중간 파일
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+ipch/
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.tlog
+*.log
